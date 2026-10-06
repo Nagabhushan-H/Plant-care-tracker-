@@ -8,7 +8,7 @@ next-care dates.
  
 ## Features
 - Add plants 
-- Track watering
+- Track watering 
 - Track sunlight requirements
 - Set next-care dates
 - View plant information
